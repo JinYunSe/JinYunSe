@@ -56,20 +56,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JinYunSe&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Langs" />
 </a>
 
-<a href="https://github.com/JinYunSe">
-  <img src="https://streak-stats.demolab.com/?user=JinYunSe&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-</a>
-
-<h2>🏆 GitHub Trophy</h2>
-
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=JinYunSe&theme=tokyonight&no-frame=true&column=4)](https://github.com/JinYunSe)
-
-<h2>📈 Activity Graph</h2>
-
-<a href="https://github.com/JinYunSe">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JinYunSe&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</a>
-
 <h2>🧩 BOJ / Solved.ac</h2>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsdbstp1234)](https://solved.ac/wlsdbstp1234)
