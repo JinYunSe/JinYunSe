@@ -1,4 +1,10 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=250&section=header&text=JinYunSe&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Android%20%26%20Game%20Developer&descSize=22&descAlignY=55&descColor=a5c8ff)
+
 <h1>Android부터 게임까지, 코드로 즐거운 경험을 만드는 개발자 진윤세입니다. 👋</h1>
+
+<a href="mailto:dbstp1234@naver.com">
+  <img src="https://img.shields.io/badge/dbstp1234@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+</a>
 
 <h2>🚀 Tech Stack 🚀</h2>
 
@@ -40,6 +46,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsdbstp1234)](https://solved.ac/wlsdbstp1234)
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=wlsdbstp1234&theme=warm)](https://solved.ac/wlsdbstp1234)
+
+[![Algorithm](https://img.shields.io/badge/Algorithm%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JinYunSe/Algorithm)
 
 <br>
 
