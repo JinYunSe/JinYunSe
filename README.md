@@ -41,6 +41,13 @@
 
 <br>
 
+<h2>🧩 BOJ / Solved.ac</h2>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsdbstp1234)](https://solved.ac/wlsdbstp1234)
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=wlsdbstp1234&theme=warm)](https://solved.ac/wlsdbstp1234)
+
+<br>
+
 <h2>💻 Projects 💻</h2>
 
 <details>
