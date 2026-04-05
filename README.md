@@ -8,11 +8,11 @@
 
 <h3>💬 Language</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,cs,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,kotlin,cs,js)](https://skillicons.dev)
 
 <h3>📱 Android</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,flutter)](https://skillicons.dev)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" height="50" alt="Jetpack Compose"/>
 
 <h3>🎮 Game</h3>
