@@ -4,7 +4,7 @@
 
 <h2>Android부터 게임까지, 코드로 즐거운 경험을 만드는 개발자 진윤세입니다.</h2>
 
-**Android FrontEnd · Unity 게임 클라이언트 · Node.js 게임 서버 · 실시간 멀티플레이 · MVVM**
+**Android 앱 개발 · Unity 멀티플레이 · 게임 서버 설계 · 실시간 네트워크 동기화 · AI 기능 연동**
 
 모바일 앱과 게임, 두 분야를 넘나들며 사용자가 즐길 수 있는 경험을 만드는 개발자입니다.<br>
 Kotlin으로 Android 앱을 개발하고, Unity와 Node.js로 게임을 설계하며<br>
