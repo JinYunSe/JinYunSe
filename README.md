@@ -18,9 +18,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
+<h3>🏗️ Infra</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+
 <h3>⚙️ Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,notion,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,notion)](https://skillicons.dev)
 
 <h2>💻 Projects 💻</h2>
 
