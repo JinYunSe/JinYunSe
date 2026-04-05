@@ -35,7 +35,7 @@
 
 <h3>⚙️ Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,notion,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,notion,figma,jira)](https://skillicons.dev)
 
 <h2>📊 GitHub Stats & Most Used Languages</h2>
 
