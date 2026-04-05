@@ -4,7 +4,8 @@
 
 <h3>📱 Android</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,flutter)](https://skillicons.dev)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 
 <h3>🎮 Game</h3>
 
