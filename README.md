@@ -6,7 +6,7 @@
 
 **Android 앱 개발 · Unity 멀티플레이 · 게임 서버 설계 · 실시간 네트워크 동기화 · AI 기능 연동**
 
-좋은 코드보다 좋은 경험을 만드는 것이 개발의 본질이라 생각합니다.<br>
+좋은 코드로 좋은 경험을 만드는 것이 개발의 본질이라 생각합니다.<br>
 모바일과 게임, 서로 다른 도메인에서의 도전을 통해 그 답을 찾아왔습니다.
 
 [![Email](https://img.shields.io/badge/dbstp1234%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:dbstp1234@naver.com)
