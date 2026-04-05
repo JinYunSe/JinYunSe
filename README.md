@@ -44,7 +44,7 @@
 
 <h3>⚙️ Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,jira,notion,figma)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,jira,notion,figma)](https://skillicons.dev)
 
 <h2>📊 GitHub Stats & Most Used Languages</h2>
 
