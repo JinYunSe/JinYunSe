@@ -6,6 +6,10 @@
 
 <h2>🚀 Tech Stack 🚀</h2>
 
+<h3>💬 Language</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,cs,js)](https://skillicons.dev)
+
 <h3>📱 Android</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,flutter)](https://skillicons.dev)
