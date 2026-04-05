@@ -12,7 +12,7 @@
 
 <h3>💻 Backend</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,java,mysql,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,java,spring,mysql,redis)](https://skillicons.dev)
 
 <h3>🌐 Web</h3>
 
