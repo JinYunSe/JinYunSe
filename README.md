@@ -2,7 +2,7 @@
 
 <h2>Android부터 게임까지, 코드로 즐거운 경험을 만드는 개발자 진윤세입니다.</h2>
 
-![Email](https://img.shields.io/badge/dbstp1234%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)
+[![Email](https://img.shields.io/badge/dbstp1234%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:dbstp1234@naver.com)
 
 <h2>🚀 Tech Stack 🚀</h2>
 
