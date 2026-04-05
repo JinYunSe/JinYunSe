@@ -3,6 +3,8 @@
 <h2>Android부터 게임까지, 코드로 즐거운 경험을 만드는 개발자 진윤세입니다.</h2>
 
 [![Email](https://img.shields.io/badge/dbstp1234%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:dbstp1234@naver.com)
+[![Blog](https://img.shields.io/badge/Tech%20Blog-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://kagan-draca.tistory.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%9C%A4%EC%84%B8-%EC%A7%84-35ab10383/)
 
 <h2>🚀 Tech Stack 🚀</h2>
 
@@ -167,3 +169,5 @@ Node.js TCP 게임 서버 개발 및 Unity 클라이언트 개발. 서버-클라
 **[GitHub Repository](https://github.com/Skill-Gacha/Skill-Gacha-Server)**
 
 </details>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=150&section=footer)
