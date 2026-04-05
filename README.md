@@ -21,9 +21,9 @@
 
 <h3>🏗️ Infra</h3>
 
-<img src="https://cdn.simpleicons.org/amazonec2/FF9900" height="50" alt="AWS EC2"/>
-<img src="https://cdn.simpleicons.org/amazonrds/527FFF" height="50" alt="AWS RDS"/>
-<img src="https://cdn.simpleicons.org/amazons3/569A31" height="50" alt="AWS S3"/>
+<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Compute/EC2.png" height="50" alt="AWS EC2"/>
+<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Database/RDS.png" height="50" alt="AWS RDS"/>
+<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Storage/SimpleStorageService.png" height="50" alt="AWS S3"/>
 
 <h3>⚙️ Tools</h3>
 
