@@ -62,9 +62,7 @@
 
 <h2>🏆 GitHub Trophy</h2>
 
-<a href="https://github.com/JinYunSe">
-  <img src="https://github-profile-trophy.vercel.app/?username=JinYunSe&theme=tokyonight&no-frame=true&column=4" alt="GitHub Trophy" />
-</a>
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=JinYunSe&theme=tokyonight&no-frame=true&column=4)](https://github.com/JinYunSe)
 
 <h2>📈 Activity Graph</h2>
 
