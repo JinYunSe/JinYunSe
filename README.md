@@ -45,7 +45,7 @@
 <h3>⚙️ Tools</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,notion,figma)](https://skillicons.dev)
-<img src="assets/jira.png" height="50" alt="Jira"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="50" alt="Jira"/>
 
 <h2>📊 GitHub Stats & Most Used Languages</h2>
 
