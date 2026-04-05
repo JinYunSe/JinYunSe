@@ -12,11 +12,11 @@
 
 <h3>💻 Backend / Web</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,mysql,redis)](https://skillicons.dev)
 
 <h3>⚙️ Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,notion,aws)](https://skillicons.dev)
 
 <h2>💻 Projects 💻</h2>
 
