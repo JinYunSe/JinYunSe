@@ -54,8 +54,8 @@
 
 <h2>🧩 BOJ / Solved.ac</h2>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsdbstp1234)](https://solved.ac/wlsdbstp1234)
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle=wlsdbstp1234&theme=warm)](https://solved.ac/wlsdbstp1234)
+<a href="https://solved.ac/wlsdbstp1234"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsdbstp1234" width="49%" alt="Solved.ac Profile" /></a>
+<a href="https://solved.ac/wlsdbstp1234"><img src="http://mazandi.herokuapp.com/api?handle=wlsdbstp1234&theme=warm" width="49%" alt="mazandi profile" /></a>
 
 [![Algorithm](https://img.shields.io/badge/Algorithm%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JinYunSe/Algorithm)
 
