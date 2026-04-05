@@ -1,4 +1,4 @@
-<h1>Hello, I'm JinYunSe! 👋</h1>
+<h1>Android부터 게임까지, 코드로 즐거운 경험을 만드는 개발자 진윤세입니다. 👋</h1>
 
 <h2>🚀 Tech Stack 🚀</h2>
 
