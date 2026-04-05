@@ -20,7 +20,9 @@
 
 <h3>🏗️ Infra</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 
 <h3>⚙️ Tools</h3>
 
