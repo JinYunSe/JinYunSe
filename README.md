@@ -21,9 +21,9 @@
 
 <h3>🏗️ Infra</h3>
 
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+<img src="https://cdn.simpleicons.org/amazonec2/FF9900" height="50" alt="AWS EC2"/>
+<img src="https://cdn.simpleicons.org/amazonrds/527FFF" height="50" alt="AWS RDS"/>
+<img src="https://cdn.simpleicons.org/amazons3/569A31" height="50" alt="AWS S3"/>
 
 <h3>⚙️ Tools</h3>
 
