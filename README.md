@@ -49,7 +49,7 @@
 
 <h2>📊 GitHub Stats & Most Used Languages</h2>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JinYunSe&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true" height="200" alt="GitHub Stats" /><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JinYunSe&layout=compact&theme=tokyonight&hide_border=true" height="200" alt="Top Langs" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JinYunSe&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats" /><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JinYunSe&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Langs" />
 
 <h2>🧩 BOJ / Solved.ac</h2>
 
