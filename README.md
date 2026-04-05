@@ -17,15 +17,15 @@
 
 <h3>🎮 Game</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
 
 <h3>💻 Backend</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,java,spring,mysql,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,spring,mysql,redis)](https://skillicons.dev)
 
 <h3>🌐 Web</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 <h3>🏗️ Infra</h3>
 
