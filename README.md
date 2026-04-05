@@ -1,6 +1,6 @@
 ![header](<https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=250&section=header&text=JinYunSe&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Android%20%26%20Game%20Developer&descSize=22&descAlignY=55&descColor=a5c8ff>)
 
-<h1>Android부터 게임까지, 코드로 즐거운 경험을 만드는 개발자 진윤세입니다. 👋</h1>
+<h3>Android부터 게임까지, 코드로 즐거운 경험을 만드는 개발자 진윤세입니다. 👋</h3>
 
 ![Email](https://img.shields.io/badge/dbstp1234%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)
 
