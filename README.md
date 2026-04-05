@@ -44,7 +44,8 @@
 
 <h3>⚙️ Tools</h3>
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,jira,notion,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,notion,figma)](https://skillicons.dev)
+<img src="assets/jira.png" height="50" alt="Jira"/>
 
 <h2>📊 GitHub Stats & Most Used Languages</h2>
 
