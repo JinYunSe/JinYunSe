@@ -21,20 +21,17 @@
 
 <h3>🏗️ Infra</h3>
 
-<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Compute/EC2.png" height="50" alt="AWS EC2"/><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Database/RDS.png" height="50" alt="AWS RDS"/><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Storage/SimpleStorageService.png" height="50" alt="AWS S3"/>
+<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Compute/EC2.png" height="50" alt="AWS EC2"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Database/RDS.png" height="50" alt="AWS RDS"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Storage/SimpleStorageService.png" height="50" alt="AWS S3"/>
 
 <h3>⚙️ Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,notion,figma)](https://skillicons.dev)
 
-<h2>📊 GitHub Stats</h2>
+<h2>📊 GitHub Stats & Most Used Languages</h2>
 
 <a href="https://github.com/JinYunSe">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JinYunSe&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
 </a>
-
-<h2>🗣️ Most Used Languages</h2>
-
 <a href="https://github.com/JinYunSe">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JinYunSe&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Langs" />
 </a>
