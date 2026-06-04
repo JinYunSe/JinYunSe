@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h2>두 번의 수상, Android와 게임 개발을 경험한 개발자 진윤세입니다.</h2>
+<h2>세 번의 수상, Android와 게임 개발을 경험한 개발자 진윤세입니다.</h2>
 
 **Android 앱 개발 · Unity 멀티플레이 · 게임 서버 설계 · 실시간 네트워크 동기화 · AI 기능 연동**
 
@@ -70,17 +70,17 @@
 
 #### 담당 역할
 
-Android 앱 전체 프론트엔드 개발. MVVM 아키텍처 설계, REST API 연동, AI 스타일링·가상 피팅 기능, 옷장 관리 및 커뮤니티 화면 구현
+Android 앱 전체 프론트엔드 단독 개발. 옷장 CRUD·상세조회, 카메라·갤러리 연동, On-Device AI(배경 제거·누끼 따기), 옷 보정, AI 코디 추천, 남의 옷 가져오기·커뮤니티, JWT 자동 갱신, 통계 차트까지 클라이언트 전 기능 구현
 
 #### 프로젝트를 통해 배운 점
 
 | 배운 점 | 구체적 내용 |
 |:---|:---|
-| **MVVM + Repository 패턴** | ViewModel, LiveData, Repository를 분리하여 관심사 분리 및 유지보수성 높은 구조 설계 |
-| **JWT 인증 자동화** | OkHttp Authenticator와 Interceptor로 액세스 토큰 만료 시 자동 갱신 처리 구현 |
-| **Kotlin Coroutines 비동기 처리** | suspend 함수와 CoroutineScope로 API 호출 및 UI 상태 관리 |
-| **온디바이스 AI/ML 연동** | ML Kit, MediaPipe, TensorFlow Lite를 활용한 의류 분류 및 가상 피팅 기능 구현 |
-| **Navigation Component** | NavGraph 기반 Fragment 화면 전환 및 인자 전달 구조화 |
+| **On-Device AI 배경 제거** | ML Kit·MediaPipe 기반으로 옷 사진에서 배경을 기기 내에서 직접 제거(누끼)하고, 필요 시 서버 AI와 병행 처리하는 구조 설계 |
+| **카메라·갤러리 연동** | ActivityResultLauncher와 ContentResolver로 카메라 촬영·갤러리 선택을 통합 처리, 권한 분기 및 이미지 보정 흐름 구현 |
+| **JWT 토큰 자동 갱신** | OkHttp Authenticator + Interceptor 조합으로 액세스 토큰 만료 시 리프레시 토큰으로 자동 재발급, 사용자 경험 단절 없이 처리 |
+| **AI 코디 추천 연동** | 옷 상세 페이지에서 서버 AI가 추천한 코디를 실시간으로 받아 UI에 반영, 남의 옷 가져오기·북마크 기능과 연계 |
+| **MVVM + Repository 패턴** | ViewModel, LiveData, Repository를 분리해 관심사를 명확히 나누고, Kotlin Coroutines로 API 호출·이미지 처리 비동기 작업 구조화 |
 
 #### 사용 기술
 
@@ -172,6 +172,41 @@ Node.js TCP 게임 서버 개발 및 Unity 클라이언트 개발. 서버-클라
 | **Infra** | `AWS`, `Docker`, `GitHub Actions`, `Prometheus`, `Grafana` |
 
 **[GitHub Repository](https://github.com/Skill-Gacha/Skill-Gacha-Server)**
+
+</details>
+
+<details>
+<summary><b>4. Baemin — 🏆 기업 연계 11팀 중 1등 · 🥉 SSAFY 자율 프로젝트 전시회 3등 | 대학교 강의 실시간 번역 서비스</b></summary>
+<br>
+
+> **2026.04.07 ~ 2026.05.21** · 6명 · Electron · Frontend · AI 통합
+
+#### 담당 역할
+
+웹 기반 서비스를 Electron 데스크탑 앱으로 전환하고, WebAudio API를 활용한 강사 원본 음성과 영어 TTS의 실시간 동기화 시스템 개발 담당. ASR/TTS 스트리밍 파이프라인 최적화, VAD 교체, AI 모델 통합 및 정량 평가 시스템 구축. WebRTC 재연결·로컬 TURN 서버 등 네트워크 안정성 전반을 책임
+
+#### 프로젝트를 통해 배운 점
+
+| 배운 점 | 구체적 내용 |
+|:---|:---|
+| **Electron 데스크탑 앱 마이그레이션** | 웹 앱을 Electron으로 전환하며 CORS isolation, 마이크 가드, NSIS 설치파일 빌드 자동화 등 데스크탑 앱 특유의 환경 설정과 배포 구조를 직접 설계 |
+| **WebAudio API 오디오 동기화** | DelayNode 기반으로 강사 원본 음성과 영어 TTS 두 트랙을 독립적으로 싱크, 적응형 딜레이 조정으로 수강생 측 wall-clock 오차 최소화 |
+| **ASR/TTS 스트리밍 최적화** | Silero VAD를 에너지 기반 RMS VAD로 교체하고 force-split 구간을 3s→1.5s로 단축해 번역 응답 지연을 실질적으로 개선 |
+| **AI 모델 통합 및 평가** | piper-tts-web TTS 모델과 VLM(Qwen3-VL) 자동 양자화 통합, 모델 성능을 정량 측정하는 평가 시스템 직접 구축 |
+| **WebRTC 네트워크 안정화** | 강사-수강생 간 연결 끊김 자동 재연결 처리 및 로컬 TURN 서버 구축으로 다양한 NAT 환경에서도 안정적인 실시간 통신 보장 |
+
+#### 사용 기술
+
+| 영역 | 기술 |
+|:---|:---|
+| **Language** | `JavaScript`, `TypeScript` |
+| **Framework** | `Electron`, `React` |
+| **Audio** | `WebAudio API`, `AudioWorklet`, `DelayNode` |
+| **AI / TTS** | `piper-tts-web`, `VAD (Voice Activity Detection)` |
+| **Sync** | `실시간 오디오·슬라이드 3중 동기화` |
+| **Tools** | `Git`, `GitLab`, `Jira`, `Notion` |
+
+**[GitHub Repository](https://github.com/JinYunSe/Baemin)**
 
 </details>
 
