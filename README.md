@@ -180,7 +180,7 @@ Node.js TCP 게임 서버 개발 및 Unity 클라이언트 개발. 서버-클라
 <summary><b>4. BunMin — 🏆 기업 연계 11팀 중 1등 · 🥉 SSAFY 자율 프로젝트 전시회 3등 | 대학교 강의 실시간 번역 서비스</b></summary>
 <br>
 
-> **2026.04.07 ~ 2026.05.21** · 6명 · Electron · Frontend · AI 통합
+> **2026.04.06 ~ 2026.06.01** · 6명 · Electron · Backend · AI
 
 #### 담당 역할
 
