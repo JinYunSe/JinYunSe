@@ -19,7 +19,7 @@
 
 <h3>💬 Language</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,js,ts,py)](https://skillicons.dev)
 
 <h3>📱 Android</h3>
 
@@ -34,9 +34,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,spring,mysql,redis)](https://skillicons.dev)
 
-<h3>🌐 Web</h3>
+<h3>🌐 Web / Desktop</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,electron)](https://skillicons.dev)
 
 <h3>🏗️ Infra</h3>
 
@@ -109,7 +109,7 @@ Android 앱 전체 프론트엔드 단독 개발. 옷장 CRUD·상세조회, 카
 
 #### 담당 역할
 
-Unity 클라이언트 개발. 물리 기반 캐릭터 시스템, Photon Fusion 네트워크 동기화, 모듈화 아이템 시스템, 로비 및 매칭 UI 구현
+Unity 클라이언트 개발. Active Ragdoll 기반 물리 캐릭터 시스템, Photon Fusion 네트워크 동기화, 고스트 아이템 투척 시스템, 게임 종료·랭킹 시스템, 관전 카메라, 네트워크 성능 최적화 담당
 
 #### 프로젝트를 통해 배운 점
 
@@ -118,8 +118,9 @@ Unity 클라이언트 개발. 물리 기반 캐릭터 시스템, Photon Fusion �
 | **Photon Fusion 실시간 네트워크 동기화** | Host 모드에서 캐릭터 물리 상태(관절 회전, 위치)를 NetworkArray로 동기화하며 실시간 멀티플레이 구조 이해 |
 | **래그돌 물리 & 상태 머신 설계** | PuppetMaster 기반 Active Ragdoll에 PhysicalPhase 상태 전이를 적용, 자연스러운 캐릭터 물리 반응 구현 |
 | **호스트 마이그레이션** | 방장 이탈 시 세션·캐릭터 선택·준비 상태를 새 호스트에 무손실 이관하는 시스템 구현 |
-| **모듈화 아이템 시스템** | ItemUseModule 추상 클래스 기반으로 8종 아이템을 독립 모듈로 분리, 확장성 있는 구조 설계 |
-| **네트워크 성능 최적화** | AOI(Area of Interest)와 PuppetMasterLOD로 불필요한 물리·네트워크 연산 감소 |
+| **게임 종료·랭킹 시스템** | GameEndPanel 씬 전환·랭킹 동기화·탈주 처리 등 게임 종료 흐름 전반 구현, 호스트 이탈 edge case 대응 |
+| **고스트 아이템 투척·관전 카메라** | GhostCube 투척 타겟 정확도·쿨타임·중복 방지 구현, 사망 후 타원 공전 관전 카메라 제작 |
+| **네트워크 성능 최적화** | Camera.main 프레임 캐시, PlayerAOIUpdater 10Hz 제한, 거리 기반 Physics LOD, FindObjects 반복 호출 제거로 프레임 드랍 해소 |
 
 #### 사용 기술
 
@@ -176,7 +177,7 @@ Node.js TCP 게임 서버 개발 및 Unity 클라이언트 개발. 서버-클라
 </details>
 
 <details>
-<summary><b>4. Baemin — 🏆 기업 연계 11팀 중 1등 · 🥉 SSAFY 자율 프로젝트 전시회 3등 | 대학교 강의 실시간 번역 서비스</b></summary>
+<summary><b>4. BunMin — 🏆 기업 연계 11팀 중 1등 · 🥉 SSAFY 자율 프로젝트 전시회 3등 | 대학교 강의 실시간 번역 서비스</b></summary>
 <br>
 
 > **2026.04.07 ~ 2026.05.21** · 6명 · Electron · Frontend · AI 통합
@@ -202,11 +203,16 @@ Node.js TCP 게임 서버 개발 및 Unity 클라이언트 개발. 서버-클라
 | **Language** | `JavaScript`, `TypeScript` |
 | **Framework** | `Electron`, `React` |
 | **Audio** | `WebAudio API`, `AudioWorklet`, `DelayNode` |
-| **AI / TTS** | `piper-tts-web`, `VAD (Voice Activity Detection)` |
+| **ASR** | `faster-whisper` (Whisper large-v3-turbo, CTranslate2 int8 양자화) |
+| **NMT** | `NLLB-200 distilled 600M` (Meta, 한국어→영어 신경망 번역) |
+| **TTS** | `piper-tts-web` |
+| **OCR** | `Surya OCR` (슬라이드 텍스트 추출) |
+| **VLM** | `Qwen3-VL` (슬라이드 이미지 이해·번역) |
+| **VAD** | 에너지 기반 RMS VAD (Silero 대체) |
 | **Sync** | `실시간 오디오·슬라이드 3중 동기화` |
 | **Tools** | `Git`, `GitLab`, `Jira`, `Notion` |
 
-**[GitHub Repository](https://github.com/JinYunSe/Baemin)**
+**[GitHub Repository](https://github.com/JinYunSe/BunMin)**
 
 </details>
 
