@@ -63,10 +63,49 @@
 <h2>💻 Projects 💻</h2>
 
 <details>
-<summary><b>1. Closetory — 🏆 SSAFY 공통 프로젝트 우수상 (12팀 중 1등) | 옷장 정리부터 AI 코디 추천까지 스마트하게</b></summary>
+<summary><b>1. Skill-Gacha — 🥈 내일배움캠프 Node 6기 최종 프로젝트 우수상 (16팀 중 2등) | 다양한 스킬을 전략적으로 조합하는 턴제 MORPG 게임</b></summary>
 <br>
 
-> **2026.01.16 ~ 2026.02.11** · 6명 · Android FrontEnd
+> **2024.11.13 ~ 2024.12.23** · 5명 · FullStack
+
+#### 담당 역할
+
+Node.js TCP 게임 서버 개발 및 Unity 클라이언트 개발. 서버-클라이언트 통신 설계, 게임 로직 구현, Protobuf 패킷 처리
+
+#### 프로젝트를 통해 배운 점
+
+| 배운 점 | 구체적 내용 |
+|:---|:---|
+| **TCP 소켓 + Protobuf 통신** | Node.js TCP 서버와 Unity 클라이언트 간 Protobuf 직렬화/역직렬화로 바이너리 패킷 통신 구현 |
+| **상태 머신 기반 게임 플로우** | GameState 추상 클래스 기반으로 던전·PVP·레이드 등 복잡한 게임 흐름을 상태 전이로 관리 |
+| **Bull Queue 매칭 처리** | Redis 기반 Bull Queue로 PVP/레이드 매칭의 원자성 확보, 동시성 문제 해결 |
+| **Redis 캐싱 전략** | MySQL 쿼리 결과를 Redis에 캐싱하여 DB 부하 감소 |
+| **트러블슈팅 경험** | Singleton 이중 생성(경로 대소문자 이슈), Bull Queue 소켓 유실, async-lock 데드락 등 실제 서버 문제 해결 |
+
+#### 사용 기술
+
+| 영역 | 기술 |
+|:---|:---|
+| **Server** | `Node.js`, `ES Modules`, `TCP Socket` |
+| **Serialization** | `Protocol Buffers (protobufjs)` |
+| **Database** | `MySQL2`, `Redis` |
+| **Queue** | `Bull` |
+| **Client** | `Unity`, `C#` |
+| **Logging** | `Winston`, `winston-daily-rotate-file` |
+| **Validation** | `Zod` |
+| **Infra** | `AWS`, `Docker`, `GitHub Actions`, `Prometheus`, `Grafana` |
+
+**[GitHub Repository](https://github.com/Skill-Gacha/Skill-Gacha-Server)**
+
+</details>
+
+<br>
+
+<details>
+<summary><b>2. Closetory — 🏆 SSAFY 공통 프로젝트 우수상 (12팀 중 1등) | 옷장 정리부터 AI 코디 추천까지 스마트하게</b></summary>
+<br>
+
+> **2026.01.06 ~ 2026.02.10** · 6명 · Android FrontEnd
 
 #### 담당 역할
 
@@ -102,7 +141,7 @@ Android 앱 전체 프론트엔드 단독 개발. 옷장 CRUD·상세조회, 카
 <br>
 
 <details>
-<summary><b>2. SsafyPlayTime — SSAFY 특화 프로젝트 | 친구들과 웃으며 즐기는 물리 기반 멀티플레이 파티 게임</b></summary>
+<summary><b>3. SsafyPlayTime — SSAFY 특화 프로젝트 | 친구들과 웃으며 즐기는 물리 기반 멀티플레이 파티 게임</b></summary>
 <br>
 
 > **2026.02.16 ~ 2026.03.30** · 6명 · Unity Client
@@ -140,47 +179,10 @@ Unity 클라이언트 개발. Active Ragdoll 기반 물리 캐릭터 시스템, 
 <br>
 
 <details>
-<summary><b>3. Skill-Gacha — 🥈 내일배움캠프 Node 6기 최종 프로젝트 우수상 (16팀 중 2등) | 다양한 스킬을 전략적으로 조합하는 턴제 MORPG 게임</b></summary>
-<br>
-
-> **2024.11.13 ~ 2024.12.23** · 5명 · FullStack
-
-#### 담당 역할
-
-Node.js TCP 게임 서버 개발 및 Unity 클라이언트 개발. 서버-클라이언트 통신 설계, 게임 로직 구현, Protobuf 패킷 처리
-
-#### 프로젝트를 통해 배운 점
-
-| 배운 점 | 구체적 내용 |
-|:---|:---|
-| **TCP 소켓 + Protobuf 통신** | Node.js TCP 서버와 Unity 클라이언트 간 Protobuf 직렬화/역직렬화로 바이너리 패킷 통신 구현 |
-| **상태 머신 기반 게임 플로우** | GameState 추상 클래스 기반으로 던전·PVP·레이드 등 복잡한 게임 흐름을 상태 전이로 관리 |
-| **Bull Queue 매칭 처리** | Redis 기반 Bull Queue로 PVP/레이드 매칭의 원자성 확보, 동시성 문제 해결 |
-| **Redis 캐싱 전략** | MySQL 쿼리 결과를 Redis에 캐싱하여 DB 부하 감소 |
-| **트러블슈팅 경험** | Singleton 이중 생성(경로 대소문자 이슈), Bull Queue 소켓 유실, async-lock 데드락 등 실제 서버 문제 해결 |
-
-#### 사용 기술
-
-| 영역 | 기술 |
-|:---|:---|
-| **Server** | `Node.js`, `ES Modules`, `TCP Socket` |
-| **Serialization** | `Protocol Buffers (protobufjs)` |
-| **Database** | `MySQL2`, `Redis` |
-| **Queue** | `Bull` |
-| **Client** | `Unity`, `C#` |
-| **Logging** | `Winston`, `winston-daily-rotate-file` |
-| **Validation** | `Zod` |
-| **Infra** | `AWS`, `Docker`, `GitHub Actions`, `Prometheus`, `Grafana` |
-
-**[GitHub Repository](https://github.com/Skill-Gacha/Skill-Gacha-Server)**
-
-</details>
-
-<details>
 <summary><b>4. BunMin — 🏆 SSAFY 자율 프로젝트 기업 연계 11팀 중 1등 · 🥉 SSAFY 전국 프로젝트 전시회 (117팀 중 3등) | 대학교 강의 실시간 번역 서비스</b></summary>
 <br>
 
-> **2026.04.06 ~ 2026.06.01** · 6명 · Electron · Backend · AI
+> **2026.04.06 ~ 2026.06.03** · 6명 · Electron · Backend · AI
 
 #### 담당 역할
 
