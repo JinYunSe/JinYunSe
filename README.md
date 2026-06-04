@@ -63,7 +63,7 @@
 <h2>💻 Projects 💻</h2>
 
 <details>
-<summary><b>1. Closetory — 🏆 SSAFY 공통 프로젝트 우수상(1등) | 옷장 정리부터 AI 코디 추천까지 스마트하게</b></summary>
+<summary><b>1. Closetory — 🏆 SSAFY 공통 프로젝트 우수상 (12팀 중 1등) | 옷장 정리부터 AI 코디 추천까지 스마트하게</b></summary>
 <br>
 
 > **2026.01.16 ~ 2026.02.11** · 6명 · Android FrontEnd
@@ -140,7 +140,7 @@ Unity 클라이언트 개발. Active Ragdoll 기반 물리 캐릭터 시스템, 
 <br>
 
 <details>
-<summary><b>3. Skill-Gacha — 🥈 내일배움캠프 Node 6기 최종 프로젝트 우수상(2등) | 다양한 스킬을 전략적으로 조합하는 턴제 MORPG 게임</b></summary>
+<summary><b>3. Skill-Gacha — 🥈 내일배움캠프 Node 6기 최종 프로젝트 우수상 (16팀 중 2등) | 다양한 스킬을 전략적으로 조합하는 턴제 MORPG 게임</b></summary>
 <br>
 
 > **2024.11.13 ~ 2024.12.23** · 5명 · FullStack
@@ -177,7 +177,7 @@ Node.js TCP 게임 서버 개발 및 Unity 클라이언트 개발. 서버-클라
 </details>
 
 <details>
-<summary><b>4. BunMin — 🏆 기업 연계 11팀 중 1등 · 🥉 SSAFY 자율 프로젝트 전시회 3등 | 대학교 강의 실시간 번역 서비스</b></summary>
+<summary><b>4. BunMin — 🏆 SSAFY 자율 프로젝트 기업 연계 11팀 중 1등 · 🥉 SSAFY 전국 프로젝트 전시회 (117팀 중 3등) | 대학교 강의 실시간 번역 서비스</b></summary>
 <br>
 
 > **2026.04.06 ~ 2026.06.01** · 6명 · Electron · Backend · AI
