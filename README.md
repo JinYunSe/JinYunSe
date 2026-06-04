@@ -7,7 +7,7 @@
 **Android 앱 개발 · Unity 멀티플레이 · 게임 서버 설계 · 실시간 AI 파이프라인 · Electron 데스크탑**
 
 좋은 코드로 좋은 경험을 만드는 것이 개발의 본질이라 생각합니다.<br>
-모바일, 게임, 그리고 실시간 AI 번역까지 서로 다른 도메인에서의 도전을 통해 그 답을 찾아왔습니다.
+모바일, 게임, 그리고 실시간 AI 번역 서비스까지 서로 다른 도메인에서의 도전을 통해 그 답을 찾아왔습니다.
 
 [![Email](https://img.shields.io/badge/dbstp1234%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:dbstp1234@naver.com)
 [![Blog](https://img.shields.io/badge/Tech%20Blog-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://kagan-draca.tistory.com/)
