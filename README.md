@@ -206,11 +206,11 @@ Unity 클라이언트 개발. Active Ragdoll 기반 물리 캐릭터 시스템, 
 | **Framework** | `Electron`, `React` |
 | **Audio** | `WebAudio API`, `AudioWorklet`, `DelayNode` |
 | **ASR** | `faster-whisper` (Whisper large-v3-turbo, CTranslate2 int8 양자화) |
-| **NMT** | `NLLB-200 distilled 600M` (Meta, 한국어→영어 신경망 번역) |
+| **NMT** | `NLLB-200 distilled 600M` (한국어→영어 신경망 번역) |
 | **TTS** | `piper-tts-web` |
 | **OCR** | `Surya OCR` (슬라이드 텍스트 추출) |
 | **VLM** | `Qwen3-VL` (슬라이드 이미지 이해·번역) |
-| **VAD** | 에너지 기반 RMS VAD (Silero 대체) |
+| **VAD** | 에너지 기반 RMS VAD |
 | **Sync** | `실시간 오디오·슬라이드 3중 동기화` |
 | **Tools** | `Git`, `GitLab`, `Jira`, `Notion` |
 
