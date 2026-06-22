@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h2>세 번의 수상, Android·게임·AI 개발을 경험한 개발자 진윤세입니다.</h2>
+<h2>네 번의 수상, Android·게임·AI 개발을 경험한 개발자 진윤세입니다.</h2>
 
 **Android 앱 개발 · Unity 멀티플레이 · 게임 서버 설계 · 실시간 AI 파이프라인 · Electron 데스크탑**
 
