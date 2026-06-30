@@ -182,7 +182,7 @@ Unity 클라이언트 개발. Active Ragdoll 기반 물리 캐릭터 시스템, 
 <summary><b>4. BunMin — 🏆 SSAFY 자율 프로젝트 기업 연계 우수상 (11팀 중 1등) · 🥉 전국 프로젝트 전시회 3등 (117팀 중 3등) | 대학교 강의 실시간 번역 서비스</b></summary>
 <br>
 
-> **2026.04.06 ~ 2026.06.03** · 6명 · Electron · Backend · AI
+> **2026.04.06 ~ 2026.05.21** · 6명 · Electron · Backend · AI
 
 #### 담당 역할
 
