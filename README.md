@@ -226,20 +226,15 @@ Unity 클라이언트 개발. Active Ragdoll 기반 물리 캐릭터 시스템, 
 <summary><b>증빙자료 보기</b></summary>
 <br>
 
-#### SSAFY 수료증
-<img src="assets/certificates/ssafy-certificate.jpg" width="80%" alt="SSAFY 수료증"/>
+<img src="assets/certificates/ssafy-certificate.jpg" width="100%" alt="SSAFY 수료증"/>
 
-#### SSAFY 수상
-<img src="assets/certificates/ssafy-award.jpg" width="80%" alt="SSAFY 수상"/>
+<img src="assets/certificates/ssafy-award.jpg" width="100%" alt="SSAFY 수상"/>
 
-#### Node.js 수상
-<img src="assets/certificates/nodejs-award.jpg" width="80%" alt="Node.js 수상"/>
+<img src="assets/certificates/nodejs-award.jpg" width="100%" alt="Node.js 수상"/>
 
-#### 자격증
-<img src="assets/certificates/certificate.jpg" width="80%" alt="자격증"/>
+<img src="assets/certificates/certificate.jpg" width="100%" alt="자격증"/>
 
-#### 어학성적
-<img src="assets/certificates/language-score.jpg" width="80%" alt="어학성적"/>
+<img src="assets/certificates/language-score.jpg" width="100%" alt="어학성적"/>
 
 </details>
 
