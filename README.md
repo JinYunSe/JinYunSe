@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=250&section=header&text=JinYunSe&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Android%20%26amp%3B%20Game%20Developer&descSize=22&descAlignY=55&descColor=a5c8ff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=250&section=header&text=JinYunSe&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Android%20%26amp%3B%20Game%20%26amp%3B%20Server%20Developer&descSize=22&descAlignY=55&descColor=a5c8ff)
 
 <div align="center">
 
-<h2>네 번의 수상, Android·게임·AI 개발을 경험한 개발자 진윤세입니다.</h2>
+<h2>네 번의 수상, Android · Game · Server를 넘나드는 개발자 진윤세입니다.</h2>
 
 **Android 앱 개발 · Unity 멀티플레이 · 게임 서버 설계 · 실시간 AI 파이프라인 · Electron 데스크탑**
 
@@ -215,6 +215,31 @@ Unity 클라이언트 개발. Active Ragdoll 기반 물리 캐릭터 시스템, 
 | **Tools** | `Git`, `GitLab`, `Jira`, `Notion` |
 
 **[GitHub Repository](https://github.com/JinYunSe/BunMin)**
+
+</details>
+
+<br>
+
+<h2>📎 증빙자료 📎</h2>
+
+<details>
+<summary><b>증빙자료 보기</b></summary>
+<br>
+
+#### SSAFY 수료증
+<img src="assets/certificates/ssafy-certificate.jpg" width="80%" alt="SSAFY 수료증"/>
+
+#### SSAFY 수상
+<img src="assets/certificates/ssafy-award.jpg" width="80%" alt="SSAFY 수상"/>
+
+#### Node.js 수상
+<img src="assets/certificates/nodejs-award.jpg" width="80%" alt="Node.js 수상"/>
+
+#### 자격증
+<img src="assets/certificates/certificate.jpg" width="80%" alt="자격증"/>
+
+#### 어학성적
+<img src="assets/certificates/language-score.jpg" width="80%" alt="어학성적"/>
 
 </details>
 
