@@ -220,7 +220,7 @@ Unity 클라이언트 개발. Active Ragdoll 기반 물리 캐릭터 시스템, 
 
 <br>
 
-<h2>📎 증빙자료 📎</h2>
+<h2>📄 증빙자료 📄</h2>
 
 <details>
 <summary><b>증빙자료 보기</b></summary>
